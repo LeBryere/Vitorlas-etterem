@@ -1,4 +1,4 @@
-# [Sziget étterem Taksony](https://lebryere.github.io/Vitrolas-etterem/)
+# [Vitorlás Restaurant](https://lebryere.github.io/Vitrolas-etterem/)
 
 ## Browser Support
 
