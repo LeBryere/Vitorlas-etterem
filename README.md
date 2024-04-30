@@ -1,4 +1,4 @@
-# [Vitorlás Restaurant](https://lebryere.github.io/Vitrolas-etterem/)
+# [Vitorlás Restaurant](https://lebryere.github.io/Vitorlas-etterem/)
 
 ## Browser Support
 
@@ -8,14 +8,14 @@
 
 ## Preview
 
-[![Resume Preview](preview.jpg)](https://lebryere.github.io/Vitrolas-etterem/)
-[![Resume Preview](preview-2.jpg)](https://lebryere.github.io/Vitrolas-etterem/)
+[![Resume Preview](preview.jpg)](https://lebryere.github.io/Vitorlas-etterem/)
+[![Resume Preview](preview-2.jpg)](https://lebryere.github.io/Vitorlas-etterem/)
 
-**[View Live Preview](https://lebryere.github.io/Vitrolas-etterem/)**
+**[View Live Preview](https://lebryere.github.io/Vitorlas-etterem/)**
 
 ## Status
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-green?&style=plastic)](https://raw.githubusercontent.com/LeBryere/Vitrolas-etterem/master/LICENSE).
+[![GitHub license](https://img.shields.io/badge/license-MIT-green?&style=plastic)](https://raw.githubusercontent.com/LeBryere/Vitorlas-etterem/master/LICENSE).
 
 ## Usage
 
@@ -39,4 +39,4 @@ The inspiration for the site comes from the Vitorlás Étterem Balatonlelle.
 
 ## Copyright and License
 
-Copyright 2024 Lebryere. Code released under the [![GitHub license](https://img.shields.io/badge/license-MIT-green?&style=plastic)](https://raw.githubusercontent.com/LeBryere/Vitrolas-etteremmaster/LICENSE).
+Copyright 2024 Lebryere. Code released under the [![GitHub license](https://img.shields.io/badge/license-MIT-green?&style=plastic)](https://raw.githubusercontent.com/LeBryere/Vitorlas-etteremmaster/LICENSE).
